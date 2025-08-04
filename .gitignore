@@ -63,11 +63,11 @@
 **/Plugins/*.pdb
 
 
-# Visual Studio Code
-.vscode/
+# Ignore các thư mục .vscode trong các project con
+**/.vscode/
 
-# Ignore packages
-Packages/
+# Ignore các thư mục Packages trong các project con
+**/Packages/
 
-# Ignore sensitive files (if any)
-KeyGG/
+# Ignore các thư mục KeyGG trong các project con
+**/KeyGG/
