@@ -1,0 +1,69 @@
+
+slash9.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slash9_00001
+  rotate: false
+  xy: 316, 2
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+slash9_00002
+  rotate: false
+  xy: 262, 4
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+slash9_00003
+  rotate: false
+  xy: 190, 6
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+slash9_00004
+  rotate: false
+  xy: 2, 3
+  size: 88, 17
+  orig: 88, 17
+  offset: 0, 0
+  index: -1
+slash9_00005
+  rotate: false
+  xy: 92, 5
+  size: 96, 15
+  orig: 96, 15
+  offset: 0, 0
+  index: -1
+slash9_00006
+  rotate: false
+  xy: 489, 36
+  size: 148, 75
+  orig: 148, 75
+  offset: 0, 0
+  index: -1
+slash9_00007
+  rotate: false
+  xy: 334, 34
+  size: 153, 77
+  orig: 153, 77
+  offset: 0, 0
+  index: -1
+slash9_00008
+  rotate: false
+  xy: 170, 27
+  size: 162, 84
+  orig: 162, 84
+  offset: 0, 0
+  index: -1
+slash9_00009
+  rotate: false
+  xy: 2, 22
+  size: 166, 89
+  orig: 166, 89
+  offset: 0, 0
+  index: -1

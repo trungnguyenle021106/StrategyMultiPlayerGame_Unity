@@ -1,0 +1,27 @@
+
+flame6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1056, 2
+  size: 458, 458
+  orig: 458, 458
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 52
+  size: 1052, 1028
+  orig: 1052, 1028
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1056, 462
+  size: 618, 726
+  orig: 618, 726
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+slash6.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slash6_00001
+  rotate: false
+  xy: 2, 111
+  size: 119, 41
+  orig: 119, 41
+  offset: 0, 0
+  index: -1
+slash6_00002
+  rotate: false
+  xy: 123, 86
+  size: 156, 66
+  orig: 156, 66
+  offset: 0, 0
+  index: -1
+slash6_00003
+  rotate: false
+  xy: 281, 55
+  size: 209, 97
+  orig: 209, 97
+  offset: 0, 0
+  index: -1
+slash6_00004
+  rotate: false
+  xy: 796, 24
+  size: 265, 128
+  orig: 265, 128
+  offset: 0, 0
+  index: -1
+slash6_00005
+  rotate: false
+  xy: 1502, 2
+  size: 188, 150
+  orig: 188, 150
+  offset: 0, 0
+  index: -1
+slash6_00006
+  rotate: true
+  xy: 635, 25
+  size: 127, 159
+  orig: 127, 159
+  offset: 0, 0
+  index: -1
+slash6_00007
+  rotate: true
+  xy: 1063, 22
+  size: 130, 153
+  orig: 130, 153
+  offset: 0, 0
+  index: -1
+slash6_00008
+  rotate: true
+  xy: 1357, 18
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+slash6_00009
+  rotate: false
+  xy: 1218, 21
+  size: 137, 131
+  orig: 137, 131
+  offset: 0, 0
+  index: -1
+slash6_00010
+  rotate: false
+  xy: 492, 32
+  size: 141, 120
+  orig: 141, 120
+  offset: 0, 0
+  index: -1

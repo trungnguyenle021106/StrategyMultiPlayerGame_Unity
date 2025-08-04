@@ -1,0 +1,61 @@
+{
+"skeleton": {
+	"hash": "hlc38TYT7qrX5eCvBoGTsNkQChE",
+	"spine": "3.8.75",
+	"x": 482.51,
+	"y": -126.34,
+	"width": 21,
+	"height": 18,
+	"images": "D:/исходники/VFX/s/slash3/image/",
+	"audio": "D:\\исходники\\VFX\\s\\slash3\\image"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "slash3_00001", "bone": "root", "attachment": "slash3_00012" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"slash3_00001": {
+				"slash3_00001": { "x": 224.92, "y": -285.61, "width": 23, "height": 18 },
+				"slash3_00002": { "x": 236.39, "y": -277.62, "width": 36, "height": 29 },
+				"slash3_00003": { "x": 261.88, "y": -260.35, "width": 60, "height": 47 },
+				"slash3_00004": { "x": 294.97, "y": -238.19, "width": 85, "height": 68 },
+				"slash3_00005": { "x": 328.4, "y": -216.37, "width": 105, "height": 84 },
+				"slash3_00006": { "x": 388.54, "y": -173.08, "width": 177, "height": 138 },
+				"slash3_00007": { "x": 403.07, "y": -168.45, "width": 145, "height": 133 },
+				"slash3_00008": { "x": 414.75, "y": -163.57, "width": 157, "height": 163 },
+				"slash3_00009": { "x": 424.44, "y": -158.64, "width": 192, "height": 200 },
+				"slash3_00010": { "x": 431.84, "y": -159.18, "width": 221, "height": 238 },
+				"slash3_00011": { "x": 440.16, "y": -165.16, "width": 249, "height": 267 },
+				"slash3_00012": { "x": 493.01, "y": -117.34, "width": 21, "height": 18 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"slash3_00001": {
+				"attachment": [
+					{ "name": "slash3_00002" },
+					{ "time": 0.0333, "name": "slash3_00003" },
+					{ "time": 0.0667, "name": "slash3_00004" },
+					{ "time": 0.1, "name": "slash3_00005" },
+					{ "time": 0.1333, "name": "slash3_00006" },
+					{ "time": 0.1667, "name": "slash3_00007" },
+					{ "time": 0.2, "name": "slash3_00008" },
+					{ "time": 0.2333, "name": "slash3_00009" },
+					{ "time": 0.2667, "name": "slash3_00010" },
+					{ "time": 0.3, "name": "slash3_00011" },
+					{ "time": 0.3333, "name": "slash3_00012" },
+					{ "time": 0.3667, "name": "slash3_00012" }
+				]
+			}
+		}
+	}
+}
+}

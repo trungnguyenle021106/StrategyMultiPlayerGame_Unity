@@ -1,0 +1,65 @@
+{ "skeleton": { "images": "D:/исходники/VFX/BOOM/images/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "light2", "bone": "root", "attachment": "light2" },
+	{ "name": "BOOM_00001", "bone": "root", "attachment": "BOOM_00001" },
+	{ "name": "BOOM_00002", "bone": "root", "attachment": "BOOM_00002" },
+	{ "name": "BOOM_00003", "bone": "root", "attachment": "BOOM_00003" },
+	{ "name": "BOOM_00004", "bone": "root", "attachment": "BOOM_00004" },
+	{ "name": "BOOM_00005", "bone": "root", "attachment": "BOOM_00005" },
+	{ "name": "BOOM_00006", "bone": "root", "attachment": "BOOM_00006" },
+	{ "name": "BOOM_00007", "bone": "root", "attachment": "BOOM_00007" },
+	{ "name": "BOOM_00008", "bone": "root", "attachment": "BOOM_00008" },
+	{ "name": "BOOM_00009", "bone": "root", "attachment": "BOOM_00009" },
+	{ "name": "BOOM_00010", "bone": "root", "attachment": "BOOM_00010" },
+	{ "name": "BOOM_00011", "bone": "root", "attachment": "BOOM_00011" },
+	{ "name": "light1", "bone": "root", "attachment": "light1" },
+],
+"skins": {
+	"default": {
+		"light2": {
+			"light2": { "x": 664.73, "y": -522, "width": 1100, "height": 975 }
+		},
+		"BOOM_00001": {
+			"BOOM_00001": { "x": 657.92, "y": -505.69, "width": 37, "height": 35 }
+		},
+		"BOOM_00002": {
+			"BOOM_00002": { "x": 660.78, "y": -506.34, "width": 91, "height": 86 }
+		},
+		"BOOM_00003": {
+			"BOOM_00003": { "x": 664.54, "y": -505.97, "width": 161, "height": 152 }
+		},
+		"BOOM_00004": {
+			"BOOM_00004": { "x": 669.01, "y": -505.39, "width": 231, "height": 219 }
+		},
+		"BOOM_00005": {
+			"BOOM_00005": { "x": 672.79, "y": -505.54, "width": 284, "height": 269 }
+		},
+		"BOOM_00006": {
+			"BOOM_00006": { "x": 674.35, "y": -505.81, "width": 307, "height": 288 }
+		},
+		"BOOM_00007": {
+			"BOOM_00007": { "x": 672.77, "y": -512.43, "width": 372, "height": 341 }
+		},
+		"BOOM_00008": {
+			"BOOM_00008": { "x": 662.11, "y": -501.23, "width": 487, "height": 418 }
+		},
+		"BOOM_00009": {
+			"BOOM_00009": { "x": 657.93, "y": -488.72, "width": 632, "height": 508 }
+		},
+		"BOOM_00010": {
+			"BOOM_00010": { "x": 658.76, "y": -481.2, "width": 743, "height": 581 }
+		},
+		"BOOM_00011": {
+			"BOOM_00011": { "x": 675.62, "y": -488.1, "width": 754, "height": 609 }
+		},
+		"light1": {
+			"light1": { "x": 664.8, "y": -504.34, "width": 295, "height": 295 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

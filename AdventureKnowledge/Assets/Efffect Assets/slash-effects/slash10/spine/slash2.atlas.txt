@@ -1,0 +1,48 @@
+
+slash2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1689, 198
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1479, 136
+  size: 168, 208
+  orig: 168, 208
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 832, 45
+  size: 297, 259
+  orig: 297, 259
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1131, 46
+  size: 346, 258
+  orig: 346, 258
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 437, 33
+  size: 393, 271
+  orig: 393, 271
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 2
+  size: 433, 302
+  orig: 433, 302
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,109 @@
+{ "skeleton": { "images": "D:/исходники/VFX/piu2/SEK3/IMAGES/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "SEK3_00006", "bone": "root", "attachment": "SEK3_00006" },
+	{ "name": "SEK3_00007", "bone": "root", "attachment": "SEK3_00007" },
+	{ "name": "SEK3_00008", "bone": "root", "attachment": "SEK3_00008" },
+	{ "name": "SEK3_00009", "bone": "root", "attachment": "SEK3_00009" },
+	{ "name": "SEK3_00010", "bone": "root", "attachment": "SEK3_00010" },
+	{ "name": "SEK3_00011", "bone": "root", "attachment": "SEK3_00011" },
+	{ "name": "SEK3_00012", "bone": "root", "attachment": "SEK3_00012" },
+	{ "name": "SEK3_00013", "bone": "root", "attachment": "SEK3_00013" },
+	{ "name": "SEK3_00014", "bone": "root", "attachment": "SEK3_00014" },
+	{ "name": "SEK3_00015", "bone": "root", "attachment": "SEK3_00015" },
+	{ "name": "SEK3_00016", "bone": "root", "attachment": "SEK3_00016" },
+	{ "name": "SEK3_00017", "bone": "root", "attachment": "SEK3_00017" },
+	{ "name": "SEK3_00018", "bone": "root", "attachment": "SEK3_00018" },
+	{ "name": "SEK3_00019", "bone": "root", "attachment": "SEK3_00019" },
+	{ "name": "SEK3_00020", "bone": "root", "attachment": "SEK3_00020" },
+	{ "name": "SEK3_00021", "bone": "root", "attachment": "SEK3_00021" },
+	{ "name": "SEK3_00022", "bone": "root", "attachment": "SEK3_00022" },
+	{ "name": "SEK3_00023", "bone": "root", "attachment": "SEK3_00023" },
+	{ "name": "SEK3_00024", "bone": "root", "attachment": "SEK3_00024" },
+	{ "name": "SEK3_00001", "bone": "root", "attachment": "SEK3_00001" },
+	{ "name": "SEK3_00002", "bone": "root", "attachment": "SEK3_00002" },
+	{ "name": "SEK3_00003", "bone": "root", "attachment": "SEK3_00003" },
+	{ "name": "SEK3_00004", "bone": "root", "attachment": "SEK3_00004" },
+	{ "name": "SEK3_00005", "bone": "root", "attachment": "SEK3_00005" }
+],
+"skins": {
+	"default": {
+		"SEK3_00006": {
+			"SEK3_00006": { "x": 664.6, "y": -538.1, "width": 323, "height": 212 }
+		},
+		"SEK3_00007": {
+			"SEK3_00007": { "x": 640.1, "y": -533.6, "width": 274, "height": 203 }
+		},
+		"SEK3_00008": {
+			"SEK3_00008": { "x": 621.1, "y": -512.14, "width": 236, "height": 197 }
+		},
+		"SEK3_00009": {
+			"SEK3_00009": { "x": 613.6, "y": -487.42, "width": 221, "height": 193 }
+		},
+		"SEK3_00010": {
+			"SEK3_00010": { "x": 620.6, "y": -464.2, "width": 235, "height": 192 }
+		},
+		"SEK3_00011": {
+			"SEK3_00011": { "x": 664.6, "y": -454.16, "width": 323, "height": 206 }
+		},
+		"SEK3_00012": {
+			"SEK3_00012": { "x": 716.1, "y": -451.06, "width": 426, "height": 214 }
+		},
+		"SEK3_00013": {
+			"SEK3_00013": { "x": 708.1, "y": -459.06, "width": 410, "height": 230 }
+		},
+		"SEK3_00014": {
+			"SEK3_00014": { "x": 689.1, "y": -475.29, "width": 372, "height": 244 }
+		},
+		"SEK3_00015": {
+			"SEK3_00015": { "x": 664.6, "y": -498.93, "width": 323, "height": 243 }
+		},
+		"SEK3_00016": {
+			"SEK3_00016": { "x": 640.1, "y": -521.33, "width": 274, "height": 231 }
+		},
+		"SEK3_00017": {
+			"SEK3_00017": { "x": 646.6, "y": -536.55, "width": 287, "height": 216 }
+		},
+		"SEK3_00018": {
+			"SEK3_00018": { "x": 646.6, "y": -538.1, "width": 287, "height": 212 }
+		},
+		"SEK3_00019": {
+			"SEK3_00019": { "x": 636.1, "y": -533.6, "width": 266, "height": 203 }
+		},
+		"SEK3_00020": {
+			"SEK3_00020": { "x": 664.6, "y": -512.14, "width": 323, "height": 197 }
+		},
+		"SEK3_00021": {
+			"SEK3_00021": { "x": 716.1, "y": -487.42, "width": 426, "height": 193 }
+		},
+		"SEK3_00022": {
+			"SEK3_00022": { "x": 708.1, "y": -464.2, "width": 410, "height": 192 }
+		},
+		"SEK3_00023": {
+			"SEK3_00023": { "x": 689.1, "y": -454.16, "width": 372, "height": 206 }
+		},
+		"SEK3_00024": {
+			"SEK3_00024": { "x": 647.1, "y": -451.06, "width": 288, "height": 214 }
+		},
+		"SEK3_00001": {
+			"SEK3_00001": { "x": 647.1, "y": -451.06, "width": 288, "height": 214 }
+		},
+		"SEK3_00002": {
+			"SEK3_00002": { "x": 664.6, "y": -464.79, "width": 323, "height": 223 }
+		},
+		"SEK3_00003": {
+			"SEK3_00003": { "x": 716.1, "y": -489.93, "width": 426, "height": 225 }
+		},
+		"SEK3_00004": {
+			"SEK3_00004": { "x": 708.1, "y": -514.83, "width": 410, "height": 218 }
+		},
+		"SEK3_00005": {
+			"SEK3_00005": { "x": 689.1, "y": -534.05, "width": 372, "height": 211 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,55 @@
+
+slash7.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slash7_00001
+  rotate: true
+  xy: 2, 180
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+slash7_00002
+  rotate: false
+  xy: 60, 169
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+slash7_00003
+  rotate: false
+  xy: 117, 89
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+slash7_00004
+  rotate: false
+  xy: 144, 163
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+slash7_00005
+  rotate: true
+  xy: 2, 11
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+slash7_00006
+  rotate: true
+  xy: 104, 2
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+slash7_00007
+  rotate: true
+  xy: 2, 98
+  size: 69, 113
+  orig: 69, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,49 @@
+{ "skeleton": { "images": "D:/исходники/VFX/s/slash2/image/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "slash2_00002", "bone": "root", "attachment": "slash2_00002" },
+	{ "name": "slash2_00003", "bone": "root", "attachment": "slash2_00003" },
+	{ "name": "slash2_00004", "bone": "root", "attachment": "slash2_00004" },
+	{ "name": "slash2_00005", "bone": "root", "attachment": "slash2_00005" },
+	{ "name": "slash2_00006", "bone": "root", "attachment": "slash2_00006" },
+	{ "name": "slash2_00007", "bone": "root", "attachment": "slash2_00007" },
+	{ "name": "slash2_00008", "bone": "root", "attachment": "slash2_00008" },
+	{ "name": "slash2_00009", "bone": "root", "attachment": "slash2_00009" },
+	{ "name": "slash2_00001", "bone": "root", "attachment": "slash2_00001" }
+],
+"skins": {
+	"default": {
+		"slash2_00002": {
+			"slash2_00002": { "x": 386.72, "y": -93.29, "width": 91, "height": 48 }
+		},
+		"slash2_00003": {
+			"slash2_00003": { "x": 387.51, "y": -127.39, "width": 94, "height": 102 }
+		},
+		"slash2_00004": {
+			"slash2_00004": { "x": 386.8, "y": -166.92, "width": 94, "height": 120 }
+		},
+		"slash2_00005": {
+			"slash2_00005": { "x": 385.38, "y": -208.97, "width": 94, "height": 126 }
+		},
+		"slash2_00006": {
+			"slash2_00006": { "x": 385.73, "y": -256.86, "width": 187, "height": 138 }
+		},
+		"slash2_00007": {
+			"slash2_00007": { "x": 381.76, "y": -282.01, "width": 189, "height": 96 }
+		},
+		"slash2_00008": {
+			"slash2_00008": { "x": 378.79, "y": -306.11, "width": 193, "height": 59 }
+		},
+		"slash2_00009": {
+			"slash2_00009": { "x": 377.61, "y": -308.32, "width": 202, "height": 62 }
+		},
+		"slash2_00001": {
+			"slash2_00001": { "x": 386.43, "y": -70.4, "width": 89, "height": 15 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

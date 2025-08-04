@@ -1,0 +1,89 @@
+{ "skeleton": { "images": "D:/исходники/VFX/s/slash/image/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Слой 0", "bone": "root", "attachment": "Слой 0" },
+	{ "name": "slash_00004", "bone": "root", "attachment": "slash_00004" },
+	{ "name": "slash_00003", "bone": "root", "attachment": "slash_00003" },
+	{ "name": "slash_00005", "bone": "root", "attachment": "slash_00005" },
+	{ "name": "slash_00006", "bone": "root", "attachment": "slash_00006" },
+	{ "name": "slash_00007", "bone": "root", "attachment": "slash_00007" },
+	{ "name": "slash_00008", "bone": "root", "attachment": "slash_00008" },
+	{ "name": "slash_00009", "bone": "root", "attachment": "slash_00009" },
+	{ "name": "slash_00010", "bone": "root", "attachment": "slash_00010" },
+	{ "name": "skash_00001", "bone": "root", "attachment": "skash_00001" },
+	{ "name": "skash_00002", "bone": "root", "attachment": "skash_00002" },
+	{ "name": "skash_00003", "bone": "root", "attachment": "skash_00003" },
+	{ "name": "skash_00004", "bone": "root", "attachment": "skash_00004" },
+	{ "name": "skash_00005", "bone": "root", "attachment": "skash_00005" },
+	{ "name": "skash_00006", "bone": "root", "attachment": "skash_00006" },
+	{ "name": "skash_00007", "bone": "root", "attachment": "skash_00007" },
+	{ "name": "skash_00008", "bone": "root", "attachment": "skash_00008" },
+	{ "name": "skash_00009", "bone": "root", "attachment": "skash_00009" },
+	{ "name": "skash_00010", "bone": "root", "attachment": "skash_00010" },
+],
+"skins": {
+	"default": {
+		"Слой 0": {
+			"Слой 0": { "x": 381.5, "y": -191, "width": 765, "height": 384 }
+		},
+		"slash_00004": {
+			"slash_00004": { "x": 378.24, "y": -208.94, "width": 57, "height": 45 }
+		},
+		"slash_00003": {
+			"slash_00003": { "x": 376.11, "y": -214.59, "width": 57, "height": 35 }
+		},
+		"slash_00005": {
+			"slash_00005": { "x": 385.5, "y": -201.87, "width": 63, "height": 55 }
+		},
+		"slash_00006": {
+			"slash_00006": { "x": 399.76, "y": -184.42, "width": 83, "height": 84 }
+		},
+		"slash_00007": {
+			"slash_00007": { "x": 406.73, "y": -176.85, "width": 87, "height": 93 }
+		},
+		"slash_00008": {
+			"slash_00008": { "x": 425.13, "y": -170.46, "width": 67, "height": 93 }
+		},
+		"slash_00009": {
+			"slash_00009": { "x": 423.13, "y": -162.59, "width": 63, "height": 73 }
+		},
+		"slash_00010": {
+			"slash_00010": { "x": 419.13, "y": -160.27, "width": 55, "height": 57 }
+		},
+		"skash_00001": {
+			"skash_00001": { "x": 354.48, "y": -228.86, "width": 18, "height": 11 }
+		},
+		"skash_00002": {
+			"skash_00002": { "x": 366.19, "y": -220.95, "width": 40, "height": 25 }
+		},
+		"skash_00003": {
+			"skash_00003": { "x": 376.53, "y": -214.59, "width": 55, "height": 35 }
+		},
+		"skash_00004": {
+			"skash_00004": { "x": 380.37, "y": -206.39, "width": 57, "height": 47 }
+		},
+		"skash_00005": {
+			"skash_00005": { "x": 390.05, "y": -196.35, "width": 65, "height": 61 }
+		},
+		"skash_00006": {
+			"skash_00006": { "x": 402.23, "y": -182.92, "width": 78, "height": 81 }
+		},
+		"skash_00007": {
+			"skash_00007": { "x": 421.13, "y": -173.35, "width": 59, "height": 86 }
+		},
+		"skash_00008": {
+			"skash_00008": { "x": 428.63, "y": -158.78, "width": 74, "height": 81 }
+		},
+		"skash_00009": {
+			"skash_00009": { "x": 423.13, "y": -157.09, "width": 63, "height": 62 }
+		},
+		"skash_00010": {
+			"skash_00010": { "x": 419.13, "y": -160.27, "width": 55, "height": 57 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

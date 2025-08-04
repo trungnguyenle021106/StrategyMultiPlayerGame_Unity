@@ -1,0 +1,93 @@
+{ "skeleton": { "images": "D:/исходники/VFX/trish/images/" },
+"PhotoshopToSpine": { "scale": 0.5, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bg", "bone": "root", "attachment": "bg" },
+	{ "name": "1", "bone": "root", "attachment": "1" },
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "3", "bone": "root", "attachment": "3" },
+	{ "name": "4", "bone": "root", "attachment": "4" },
+	{ "name": "5", "bone": "root", "attachment": "5" },
+	{ "name": "6", "bone": "root", "attachment": "6" },
+	{ "name": "6(1)s", "bone": "root", "attachment": "6(1)s" },
+	{ "name": "6(1)", "bone": "root", "attachment": "6(1)" },
+	{ "name": "7(P)", "bone": "root", "attachment": "7(P)" },
+	{ "name": "7(1)", "bone": "root", "attachment": "7(1)" },
+	{ "name": "8", "bone": "root", "attachment": "8" },
+	{ "name": "8(1)", "bone": "root", "attachment": "8(1)" },
+	{ "name": "9", "bone": "root", "attachment": "9" },
+	{ "name": "9(1)", "bone": "root", "attachment": "9(1)" },
+	{ "name": "10", "bone": "root", "attachment": "10" },
+	{ "name": "10(1)", "bone": "root", "attachment": "10(1)" },
+	{ "name": "11s", "bone": "root", "attachment": "11s" },
+	{ "name": "11", "bone": "root", "attachment": "11" },
+	{ "name": "o", "bone": "root", "attachment": "o" }
+],
+"skins": {
+	"default": {
+		"bg": {
+			"bg": { "x": 1000, "y": -600, "width": 2002, "height": 1202 }
+		},
+		"1": {
+			"1": { "x": 973, "y": -670.5, "width": 108, "height": 120 }
+		},
+		"2": {
+			"2": { "x": 967, "y": -661.5, "width": 302, "height": 332 }
+		},
+		"3": {
+			"3": { "x": 984, "y": -631.5, "width": 457, "height": 590 }
+		},
+		"4": {
+			"4": { "x": 977, "y": -628, "width": 531, "height": 679 }
+		},
+		"5": {
+			"5": { "x": 948.5, "y": -653, "width": 719, "height": 870 }
+		},
+		"6": {
+			"6": { "x": 961, "y": -600, "width": 843, "height": 933 }
+		},
+		"6(1)s": {
+			"6(1)s": { "x": 948, "y": -621, "width": 868, "height": 975 }
+		},
+		"6(1)": {
+			"6(1)": { "x": 948, "y": -624.5, "width": 812, "height": 905 }
+		},
+		"7(P)": {
+			"7(P)": { "x": 947.5, "y": -645, "width": 398, "height": 518 }
+		},
+		"7(1)": {
+			"7(1)": { "x": 913, "y": -657, "width": 738, "height": 793 }
+		},
+		"8": {
+			"8": { "x": 964.5, "y": -639, "width": 449, "height": 632 }
+		},
+		"8(1)": {
+			"8(1)": { "x": 933, "y": -676, "width": 456, "height": 603 }
+		},
+		"9": {
+			"9": { "x": 965, "y": -639, "width": 502, "height": 731 }
+		},
+		"9(1)": {
+			"9(1)": { "x": 934.5, "y": -674, "width": 379, "height": 498 }
+		},
+		"10": {
+			"10": { "x": 959, "y": -646.5, "width": 468, "height": 706 }
+		},
+		"10(1)": {
+			"10(1)": { "x": 935, "y": -674, "width": 248, "height": 312 }
+		},
+		"11s": {
+			"11s": { "x": 959, "y": -668.5, "width": 141, "height": 186 }
+		},
+		"11": {
+			"11": { "x": 959.5, "y": -669.5, "width": 132, "height": 176 }
+		},
+		"o": {
+			"o": { "x": 946, "y": -669.5, "width": 288, "height": 320 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
