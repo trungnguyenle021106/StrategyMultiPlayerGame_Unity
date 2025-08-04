@@ -61,3 +61,13 @@
 **/*.bundle
 **/Plugins/*.dll
 **/Plugins/*.pdb
+
+
+# Visual Studio Code
+.vscode/
+
+# Ignore packages
+Packages/
+
+# Ignore sensitive files (if any)
+KeyGG/
