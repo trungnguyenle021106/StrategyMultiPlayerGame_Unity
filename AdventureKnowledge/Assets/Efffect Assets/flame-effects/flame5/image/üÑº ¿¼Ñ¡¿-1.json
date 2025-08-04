@@ -1,0 +1,297 @@
+{ "skeleton": { "images": "D:/исходники/VFX/frrr/image/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Me_VFX0050", "bone": "root", "attachment": "Me_VFX0050" },
+	{ "name": "Me_VFX0051", "bone": "root", "attachment": "Me_VFX0051" },
+	{ "name": "Me_VFX0052", "bone": "root", "attachment": "Me_VFX0052" },
+	{ "name": "Me_VFX0053", "bone": "root", "attachment": "Me_VFX0053" },
+	{ "name": "Me_VFX0054", "bone": "root", "attachment": "Me_VFX0054" },
+	{ "name": "Me_VFX0055", "bone": "root", "attachment": "Me_VFX0055" },
+	{ "name": "Me_VFX0056", "bone": "root", "attachment": "Me_VFX0056" },
+	{ "name": "Me_VFX0057", "bone": "root", "attachment": "Me_VFX0057" },
+	{ "name": "Me_VFX0058", "bone": "root", "attachment": "Me_VFX0058" },
+	{ "name": "Me_VFX0059", "bone": "root", "attachment": "Me_VFX0059" },
+	{ "name": "Me_VFX0060", "bone": "root", "attachment": "Me_VFX0060" },
+	{ "name": "Me_VFX0061", "bone": "root", "attachment": "Me_VFX0061" },
+	{ "name": "Me_VFX0062", "bone": "root", "attachment": "Me_VFX0062" },
+	{ "name": "Me_VFX0063", "bone": "root", "attachment": "Me_VFX0063" },
+	{ "name": "Me_VFX0064", "bone": "root", "attachment": "Me_VFX0064" },
+	{ "name": "Me_VFX0065", "bone": "root", "attachment": "Me_VFX0065" },
+	{ "name": "Me_VFX0066", "bone": "root", "attachment": "Me_VFX0066" },
+	{ "name": "Me_VFX0067", "bone": "root", "attachment": "Me_VFX0067" },
+	{ "name": "Me_VFX0068", "bone": "root", "attachment": "Me_VFX0068" },
+	{ "name": "Me_VFX0069", "bone": "root", "attachment": "Me_VFX0069" },
+	{ "name": "Me_VFX0070", "bone": "root", "attachment": "Me_VFX0070" },
+	{ "name": "Me_VFX0000", "bone": "root", "attachment": "Me_VFX0000" },
+	{ "name": "Me_VFX0001", "bone": "root", "attachment": "Me_VFX0001" },
+	{ "name": "Me_VFX0002", "bone": "root", "attachment": "Me_VFX0002" },
+	{ "name": "Me_VFX0003", "bone": "root", "attachment": "Me_VFX0003" },
+	{ "name": "Me_VFX0004", "bone": "root", "attachment": "Me_VFX0004" },
+	{ "name": "Me_VFX0005", "bone": "root", "attachment": "Me_VFX0005" },
+	{ "name": "Me_VFX0006", "bone": "root", "attachment": "Me_VFX0006" },
+	{ "name": "Me_VFX0007", "bone": "root", "attachment": "Me_VFX0007" },
+	{ "name": "Me_VFX0008", "bone": "root", "attachment": "Me_VFX0008" },
+	{ "name": "Me_VFX0009", "bone": "root", "attachment": "Me_VFX0009" },
+	{ "name": "Me_VFX0010", "bone": "root", "attachment": "Me_VFX0010" },
+	{ "name": "Me_VFX0011", "bone": "root", "attachment": "Me_VFX0011" },
+	{ "name": "Me_VFX0012", "bone": "root", "attachment": "Me_VFX0012" },
+	{ "name": "Me_VFX0013", "bone": "root", "attachment": "Me_VFX0013" },
+	{ "name": "Me_VFX0014", "bone": "root", "attachment": "Me_VFX0014" },
+	{ "name": "Me_VFX0015", "bone": "root", "attachment": "Me_VFX0015" },
+	{ "name": "Me_VFX0016", "bone": "root", "attachment": "Me_VFX0016" },
+	{ "name": "Me_VFX0017", "bone": "root", "attachment": "Me_VFX0017" },
+	{ "name": "Me_VFX0018", "bone": "root", "attachment": "Me_VFX0018" },
+	{ "name": "Me_VFX0019", "bone": "root", "attachment": "Me_VFX0019" },
+	{ "name": "Me_VFX0020", "bone": "root", "attachment": "Me_VFX0020" },
+	{ "name": "Me_VFX0021", "bone": "root", "attachment": "Me_VFX0021" },
+	{ "name": "Me_VFX0022", "bone": "root", "attachment": "Me_VFX0022" },
+	{ "name": "Me_VFX0023", "bone": "root", "attachment": "Me_VFX0023" },
+	{ "name": "Me_VFX0024", "bone": "root", "attachment": "Me_VFX0024" },
+	{ "name": "Me_VFX0025", "bone": "root", "attachment": "Me_VFX0025" },
+	{ "name": "Me_VFX0026", "bone": "root", "attachment": "Me_VFX0026" },
+	{ "name": "Me_VFX0027", "bone": "root", "attachment": "Me_VFX0027" },
+	{ "name": "Me_VFX0028", "bone": "root", "attachment": "Me_VFX0028" },
+	{ "name": "Me_VFX0029", "bone": "root", "attachment": "Me_VFX0029" },
+	{ "name": "Me_VFX0030", "bone": "root", "attachment": "Me_VFX0030" },
+	{ "name": "Me_VFX0031", "bone": "root", "attachment": "Me_VFX0031" },
+	{ "name": "Me_VFX0032", "bone": "root", "attachment": "Me_VFX0032" },
+	{ "name": "Me_VFX0033", "bone": "root", "attachment": "Me_VFX0033" },
+	{ "name": "Me_VFX0034", "bone": "root", "attachment": "Me_VFX0034" },
+	{ "name": "Me_VFX0035", "bone": "root", "attachment": "Me_VFX0035" },
+	{ "name": "Me_VFX0036", "bone": "root", "attachment": "Me_VFX0036" },
+	{ "name": "Me_VFX0037", "bone": "root", "attachment": "Me_VFX0037" },
+	{ "name": "Me_VFX0038", "bone": "root", "attachment": "Me_VFX0038" },
+	{ "name": "Me_VFX0039", "bone": "root", "attachment": "Me_VFX0039" },
+	{ "name": "Me_VFX0040", "bone": "root", "attachment": "Me_VFX0040" },
+	{ "name": "Me_VFX0041", "bone": "root", "attachment": "Me_VFX0041" },
+	{ "name": "Me_VFX0042", "bone": "root", "attachment": "Me_VFX0042" },
+	{ "name": "Me_VFX0043", "bone": "root", "attachment": "Me_VFX0043" },
+	{ "name": "Me_VFX0044", "bone": "root", "attachment": "Me_VFX0044" },
+	{ "name": "Me_VFX0045", "bone": "root", "attachment": "Me_VFX0045" },
+	{ "name": "Me_VFX0046", "bone": "root", "attachment": "Me_VFX0046" },
+	{ "name": "Me_VFX0047", "bone": "root", "attachment": "Me_VFX0047" },
+	{ "name": "Me_VFX0048", "bone": "root", "attachment": "Me_VFX0048" },
+	{ "name": "Me_VFX0049", "bone": "root", "attachment": "Me_VFX0049" }
+],
+"skins": {
+	"default": {
+		"Me_VFX0050": {
+			"Me_VFX0050": { "x": 365.97, "y": -154.6, "width": 298, "height": 226 }
+		},
+		"Me_VFX0051": {
+			"Me_VFX0051": { "x": 362.18, "y": -149.95, "width": 289, "height": 238 }
+		},
+		"Me_VFX0052": {
+			"Me_VFX0052": { "x": 368.7, "y": -146.9, "width": 285, "height": 239 }
+		},
+		"Me_VFX0053": {
+			"Me_VFX0053": { "x": 373.51, "y": -175.49, "width": 279, "height": 184 }
+		},
+		"Me_VFX0054": {
+			"Me_VFX0054": { "x": 373.3, "y": -164.03, "width": 280, "height": 198 }
+		},
+		"Me_VFX0055": {
+			"Me_VFX0055": { "x": 371.46, "y": -153.78, "width": 282, "height": 213 }
+		},
+		"Me_VFX0056": {
+			"Me_VFX0056": { "x": 372.85, "y": -146.08, "width": 272, "height": 226 }
+		},
+		"Me_VFX0057": {
+			"Me_VFX0057": { "x": 370.17, "y": -145.53, "width": 278, "height": 232 }
+		},
+		"Me_VFX0058": {
+			"Me_VFX0058": { "x": 368.02, "y": -143.9, "width": 295, "height": 233 }
+		},
+		"Me_VFX0059": {
+			"Me_VFX0059": { "x": 363.42, "y": -149.68, "width": 300, "height": 219 }
+		},
+		"Me_VFX0060": {
+			"Me_VFX0060": { "x": 359.77, "y": -192.17, "width": 314, "height": 135 }
+		},
+		"Me_VFX0061": {
+			"Me_VFX0061": { "x": 359.14, "y": -186.31, "width": 317, "height": 146 }
+		},
+		"Me_VFX0062": {
+			"Me_VFX0062": { "x": 359.77, "y": -184.92, "width": 314, "height": 156 }
+		},
+		"Me_VFX0063": {
+			"Me_VFX0063": { "x": 360.48, "y": -180.11, "width": 314, "height": 162 }
+		},
+		"Me_VFX0064": {
+			"Me_VFX0064": { "x": 359.77, "y": -175.88, "width": 314, "height": 172 }
+		},
+		"Me_VFX0065": {
+			"Me_VFX0065": { "x": 357.64, "y": -173.41, "width": 314, "height": 177 }
+		},
+		"Me_VFX0066": {
+			"Me_VFX0066": { "x": 379.58, "y": -203.89, "width": 267, "height": 113 }
+		},
+		"Me_VFX0067": {
+			"Me_VFX0067": { "x": 368.08, "y": -195.14, "width": 244, "height": 131 }
+		},
+		"Me_VFX0068": {
+			"Me_VFX0068": { "x": 366.92, "y": -181.21, "width": 236, "height": 150 }
+		},
+		"Me_VFX0069": {
+			"Me_VFX0069": { "x": 360.63, "y": -175.01, "width": 222, "height": 166 }
+		},
+		"Me_VFX0070": {
+			"Me_VFX0070": { "x": 365.36, "y": -247.9, "width": 213, "height": 15 }
+		},
+		"Me_VFX0000": {
+			"Me_VFX0000": { "x": 487.81, "y": -239.04, "width": 39, "height": 20 }
+		},
+		"Me_VFX0001": {
+			"Me_VFX0001": { "x": 483.92, "y": -238.2, "width": 44, "height": 24 }
+		},
+		"Me_VFX0002": {
+			"Me_VFX0002": { "x": 478.69, "y": -236.78, "width": 52, "height": 24 }
+		},
+		"Me_VFX0003": {
+			"Me_VFX0003": { "x": 475.22, "y": -236.78, "width": 55, "height": 24 }
+		},
+		"Me_VFX0004": {
+			"Me_VFX0004": { "x": 469.86, "y": -233.47, "width": 67, "height": 33 }
+		},
+		"Me_VFX0005": {
+			"Me_VFX0005": { "x": 464.34, "y": -235.55, "width": 73, "height": 40 }
+		},
+		"Me_VFX0006": {
+			"Me_VFX0006": { "x": 458.19, "y": -239.47, "width": 82, "height": 45 }
+		},
+		"Me_VFX0007": {
+			"Me_VFX0007": { "x": 456.35, "y": -236.29, "width": 84, "height": 50 }
+		},
+		"Me_VFX0008": {
+			"Me_VFX0008": { "x": 453.59, "y": -233.11, "width": 87, "height": 55 }
+		},
+		"Me_VFX0009": {
+			"Me_VFX0009": { "x": 450.83, "y": -227.17, "width": 90, "height": 63 }
+		},
+		"Me_VFX0010": {
+			"Me_VFX0010": { "x": 439.06, "y": -226.28, "width": 119, "height": 74 }
+		},
+		"Me_VFX0011": {
+			"Me_VFX0011": { "x": 426.11, "y": -216.56, "width": 157, "height": 100 }
+		},
+		"Me_VFX0012": {
+			"Me_VFX0012": { "x": 419.36, "y": -212.08, "width": 179, "height": 145 }
+		},
+		"Me_VFX0013": {
+			"Me_VFX0013": { "x": 398.26, "y": -218.05, "width": 222, "height": 147 }
+		},
+		"Me_VFX0014": {
+			"Me_VFX0014": { "x": 389.33, "y": -214.66, "width": 251, "height": 153 }
+		},
+		"Me_VFX0015": {
+			"Me_VFX0015": { "x": 383.93, "y": -221.34, "width": 226, "height": 155 }
+		},
+		"Me_VFX0016": {
+			"Me_VFX0016": { "x": 381.96, "y": -232.96, "width": 232, "height": 147 }
+		},
+		"Me_VFX0017": {
+			"Me_VFX0017": { "x": 363.04, "y": -230.31, "width": 268, "height": 163 }
+		},
+		"Me_VFX0018": {
+			"Me_VFX0018": { "x": 341.12, "y": -207.08, "width": 298, "height": 135 }
+		},
+		"Me_VFX0019": {
+			"Me_VFX0019": { "x": 345.91, "y": -199.67, "width": 309, "height": 150 }
+		},
+		"Me_VFX0020": {
+			"Me_VFX0020": { "x": 348.88, "y": -192, "width": 305, "height": 173 }
+		},
+		"Me_VFX0021": {
+			"Me_VFX0021": { "x": 347.62, "y": -191.92, "width": 311, "height": 170 }
+		},
+		"Me_VFX0022": {
+			"Me_VFX0022": { "x": 345.36, "y": -182.64, "width": 315, "height": 177 }
+		},
+		"Me_VFX0023": {
+			"Me_VFX0023": { "x": 344.15, "y": -182.51, "width": 314, "height": 181 }
+		},
+		"Me_VFX0024": {
+			"Me_VFX0024": { "x": 346.04, "y": -182.22, "width": 305, "height": 179 }
+		},
+		"Me_VFX0025": {
+			"Me_VFX0025": { "x": 344.91, "y": -169.58, "width": 307, "height": 202 }
+		},
+		"Me_VFX0026": {
+			"Me_VFX0026": { "x": 342.28, "y": -165.93, "width": 306, "height": 216 }
+		},
+		"Me_VFX0027": {
+			"Me_VFX0027": { "x": 344.2, "y": -155.63, "width": 307, "height": 238 }
+		},
+		"Me_VFX0028": {
+			"Me_VFX0028": { "x": 343.15, "y": -152.37, "width": 312, "height": 240 }
+		},
+		"Me_VFX0029": {
+			"Me_VFX0029": { "x": 342.6, "y": -162.04, "width": 318, "height": 221 }
+		},
+		"Me_VFX0030": {
+			"Me_VFX0030": { "x": 342.68, "y": -162.46, "width": 321, "height": 219 }
+		},
+		"Me_VFX0031": {
+			"Me_VFX0031": { "x": 348.12, "y": -154.05, "width": 312, "height": 232 }
+		},
+		"Me_VFX0032": {
+			"Me_VFX0032": { "x": 351.8, "y": -179.8, "width": 308, "height": 177 }
+		},
+		"Me_VFX0033": {
+			"Me_VFX0033": { "x": 348.75, "y": -181.9, "width": 309, "height": 167 }
+		},
+		"Me_VFX0034": {
+			"Me_VFX0034": { "x": 343.49, "y": -181.38, "width": 307, "height": 183 }
+		},
+		"Me_VFX0035": {
+			"Me_VFX0035": { "x": 344.86, "y": -172.76, "width": 314, "height": 197 }
+		},
+		"Me_VFX0036": {
+			"Me_VFX0036": { "x": 349.49, "y": -163.17, "width": 319, "height": 219 }
+		},
+		"Me_VFX0037": {
+			"Me_VFX0037": { "x": 351.25, "y": -151.18, "width": 314, "height": 222 }
+		},
+		"Me_VFX0038": {
+			"Me_VFX0038": { "x": 353.8, "y": -146.03, "width": 312, "height": 233 }
+		},
+		"Me_VFX0039": {
+			"Me_VFX0039": { "x": 354.72, "y": -144.9, "width": 311, "height": 235 }
+		},
+		"Me_VFX0040": {
+			"Me_VFX0040": { "x": 350.75, "y": -148.16, "width": 313, "height": 233 }
+		},
+		"Me_VFX0041": {
+			"Me_VFX0041": { "x": 354.8, "y": -183.95, "width": 314, "height": 164 }
+		},
+		"Me_VFX0042": {
+			"Me_VFX0042": { "x": 353.75, "y": -162.77, "width": 319, "height": 204 }
+		},
+		"Me_VFX0043": {
+			"Me_VFX0043": { "x": 349.15, "y": -152.92, "width": 324, "height": 234 }
+		},
+		"Me_VFX0044": {
+			"Me_VFX0044": { "x": 349.2, "y": -150.16, "width": 317, "height": 237 }
+		},
+		"Me_VFX0045": {
+			"Me_VFX0045": { "x": 355.8, "y": -148.03, "width": 316, "height": 237 }
+		},
+		"Me_VFX0046": {
+			"Me_VFX0046": { "x": 369.7, "y": -147.82, "width": 287, "height": 238 }
+		},
+		"Me_VFX0047": {
+			"Me_VFX0047": { "x": 372.07, "y": -147.58, "width": 296, "height": 229 }
+		},
+		"Me_VFX0048": {
+			"Me_VFX0048": { "x": 370.02, "y": -144.74, "width": 299, "height": 229 }
+		},
+		"Me_VFX0049": {
+			"Me_VFX0049": { "x": 373.25, "y": -167, "width": 287, "height": 194 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

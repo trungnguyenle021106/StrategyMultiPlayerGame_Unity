@@ -1,0 +1,37 @@
+{ "skeleton": { "images": "D:/исходники/VFX/s/slash2/image/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "1", "bone": "root", "attachment": "1" },
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "3", "bone": "root", "attachment": "3" },
+	{ "name": "4", "bone": "root", "attachment": "4" },
+	{ "name": "5", "bone": "root", "attachment": "5" },
+	{ "name": "6", "bone": "root", "attachment": "6" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "x": 451.73, "y": -164.67, "width": 106, "height": 80 }
+		},
+		"2": {
+			"2": { "x": 386.88, "y": -188.91, "width": 168, "height": 208 }
+		},
+		"3": {
+			"3": { "x": 409.49, "y": -163.29, "width": 297, "height": 259 }
+		},
+		"4": {
+			"4": { "x": 416.24, "y": -157.11, "width": 346, "height": 258 }
+		},
+		"5": {
+			"5": { "x": 416.31, "y": -163.61, "width": 393, "height": 271 }
+		},
+		"6": {
+			"6": { "x": 401.52, "y": -150, "width": 433, "height": 302 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

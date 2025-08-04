@@ -1,0 +1,97 @@
+
+flame2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOOM_00001
+  rotate: true
+  xy: 1056, 991
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+BOOM_00002
+  rotate: true
+  xy: 979, 448
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+BOOM_00003
+  rotate: false
+  xy: 235, 57
+  size: 161, 152
+  orig: 161, 152
+  offset: 0, 0
+  index: -1
+BOOM_00004
+  rotate: false
+  xy: 2, 2
+  size: 231, 219
+  orig: 231, 219
+  offset: 0, 0
+  index: -1
+BOOM_00005
+  rotate: false
+  xy: 1067, 235
+  size: 284, 269
+  orig: 284, 269
+  offset: 0, 0
+  index: -1
+BOOM_00006
+  rotate: true
+  xy: 299, 211
+  size: 307, 288
+  orig: 307, 288
+  offset: 0, 0
+  index: -1
+BOOM_00007
+  rotate: true
+  xy: 636, 167
+  size: 372, 341
+  orig: 372, 341
+  offset: 0, 0
+  index: -1
+BOOM_00008
+  rotate: true
+  xy: 636, 541
+  size: 487, 418
+  orig: 487, 418
+  offset: 0, 0
+  index: -1
+BOOM_00009
+  rotate: false
+  xy: 2, 520
+  size: 632, 508
+  orig: 632, 508
+  offset: 0, 0
+  index: -1
+BOOM_00010
+  rotate: true
+  xy: 1104, 506
+  size: 743, 581
+  orig: 743, 581
+  offset: 0, 0
+  index: -1
+BOOM_00011
+  rotate: true
+  xy: 1104, 1251
+  size: 754, 609
+  orig: 754, 609
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 223
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 1030
+  size: 1100, 975
+  orig: 1100, 975
+  offset: 0, 0
+  index: -1

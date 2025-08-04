@@ -1,0 +1,139 @@
+
+slash.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skash_00001
+  rotate: true
+  xy: 44, 11
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+skash_00002
+  rotate: false
+  xy: 2, 4
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+skash_00003
+  rotate: false
+  xy: 150, 3
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+skash_00004
+  rotate: false
+  xy: 462, 2
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+skash_00005
+  rotate: true
+  xy: 527, 59
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+skash_00006
+  rotate: false
+  xy: 176, 43
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+skash_00007
+  rotate: false
+  xy: 401, 38
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+skash_00008
+  rotate: false
+  xy: 325, 43
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+skash_00009
+  rotate: true
+  xy: 590, 61
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+skash_00010
+  rotate: false
+  xy: 645, 2
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+slash_00003
+  rotate: false
+  xy: 91, 3
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+slash_00004
+  rotate: false
+  xy: 521, 4
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+slash_00005
+  rotate: false
+  xy: 580, 2
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+slash_00006
+  rotate: false
+  xy: 91, 40
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+slash_00007
+  rotate: false
+  xy: 2, 31
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+slash_00008
+  rotate: false
+  xy: 256, 31
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+slash_00009
+  rotate: false
+  xy: 462, 51
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+slash_00010
+  rotate: false
+  xy: 654, 67
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Слой 0
+  rotate: false
+  xy: 2, 126
+  size: 765, 384
+  orig: 765, 384
+  offset: 0, 0
+  index: -1

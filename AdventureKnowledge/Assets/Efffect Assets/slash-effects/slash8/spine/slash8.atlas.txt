@@ -1,0 +1,62 @@
+
+slash8.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slash8_00001
+  rotate: true
+  xy: 102, 4
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+slash8_00002
+  rotate: true
+  xy: 277, 87
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+slash8_00003
+  rotate: true
+  xy: 131, 8
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+slash8_00004
+  rotate: false
+  xy: 102, 43
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: -1
+slash8_00005
+  rotate: false
+  xy: 66, 13
+  size: 34, 107
+  orig: 34, 107
+  offset: 0, 0
+  index: -1
+slash8_00006
+  rotate: true
+  xy: 180, 5
+  size: 55, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+slash8_00007
+  rotate: true
+  xy: 141, 62
+  size: 58, 134
+  orig: 58, 134
+  offset: 0, 0
+  index: -1
+slash8_00008
+  rotate: false
+  xy: 2, 2
+  size: 62, 118
+  orig: 62, 118
+  offset: 0, 0
+  index: -1

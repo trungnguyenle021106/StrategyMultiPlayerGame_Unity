@@ -1,0 +1,29 @@
+{ "skeleton": { "images": "D:/исходники/VFX/piu/images/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bg", "bone": "root", "attachment": "bg" },
+	{ "name": "3", "bone": "root", "attachment": "3" },
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "1", "bone": "root", "attachment": "1" }
+],
+"skins": {
+	"default": {
+		"bg": {
+			"bg": { "x": 1183.5, "y": -887.5, "width": 2369, "height": 1777 }
+		},
+		"3": {
+			"3": { "x": 1157.16, "y": -896.63, "width": 618, "height": 726 }
+		},
+		"2": {
+			"2": { "x": 1155.48, "y": -859.48, "width": 1052, "height": 1028 }
+		},
+		"1": {
+			"1": { "x": 1155.81, "y": -869.68, "width": 381, "height": 381 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

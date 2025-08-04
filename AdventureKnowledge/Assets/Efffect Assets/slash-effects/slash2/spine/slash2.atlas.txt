@@ -1,0 +1,69 @@
+
+slash2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slash2_00001
+  rotate: true
+  xy: 493, 70
+  size: 89, 15
+  orig: 89, 15
+  offset: 0, 0
+  index: -1
+slash2_00002
+  rotate: true
+  xy: 313, 5
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+slash2_00003
+  rotate: true
+  xy: 401, 161
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+slash2_00004
+  rotate: true
+  xy: 191, 2
+  size: 94, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+slash2_00005
+  rotate: false
+  xy: 397, 33
+  size: 94, 126
+  orig: 94, 126
+  offset: 0, 0
+  index: -1
+slash2_00006
+  rotate: false
+  xy: 2, 53
+  size: 187, 138
+  orig: 187, 138
+  offset: 0, 0
+  index: -1
+slash2_00007
+  rotate: false
+  xy: 206, 98
+  size: 189, 96
+  orig: 189, 96
+  offset: 0, 0
+  index: -1
+slash2_00008
+  rotate: false
+  xy: 206, 196
+  size: 193, 59
+  orig: 193, 59
+  offset: 0, 0
+  index: -1
+slash2_00009
+  rotate: false
+  xy: 2, 193
+  size: 202, 62
+  orig: 202, 62
+  offset: 0, 0
+  index: -1

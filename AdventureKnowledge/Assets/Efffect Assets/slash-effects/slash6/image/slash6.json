@@ -1,0 +1,53 @@
+{ "skeleton": { "images": "D:/исходники/VFX/s/slash6/image/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "slash6_00001", "bone": "root", "attachment": "slash6_00001" },
+	{ "name": "slash6_00002", "bone": "root", "attachment": "slash6_00002" },
+	{ "name": "slash6_00003", "bone": "root", "attachment": "slash6_00003" },
+	{ "name": "slash6_00004", "bone": "root", "attachment": "slash6_00004" },
+	{ "name": "slash6_00005", "bone": "root", "attachment": "slash6_00005" },
+	{ "name": "slash6_00006", "bone": "root", "attachment": "slash6_00006" },
+	{ "name": "slash6_00007", "bone": "root", "attachment": "slash6_00007" },
+	{ "name": "slash6_00008", "bone": "root", "attachment": "slash6_00008" },
+	{ "name": "slash6_00009", "bone": "root", "attachment": "slash6_00009" },
+	{ "name": "slash6_00010", "bone": "root", "attachment": "slash6_00010" }
+],
+"skins": {
+	"default": {
+		"slash6_00001": {
+			"slash6_00001": { "x": 319.07, "y": -242.44, "width": 119, "height": 41 }
+		},
+		"slash6_00002": {
+			"slash6_00002": { "x": 336.86, "y": -230.09, "width": 156, "height": 66 }
+		},
+		"slash6_00003": {
+			"slash6_00003": { "x": 363.36, "y": -214.35, "width": 209, "height": 97 }
+		},
+		"slash6_00004": {
+			"slash6_00004": { "x": 391.36, "y": -199.32, "width": 265, "height": 128 }
+		},
+		"slash6_00005": {
+			"slash6_00005": { "x": 477.11, "y": -187.6, "width": 188, "height": 150 }
+		},
+		"slash6_00006": {
+			"slash6_00006": { "x": 536.07, "y": -183.58, "width": 127, "height": 159 }
+		},
+		"slash6_00007": {
+			"slash6_00007": { "x": 538.28, "y": -181.29, "width": 130, "height": 153 }
+		},
+		"slash6_00008": {
+			"slash6_00008": { "x": 540.28, "y": -176.29, "width": 134, "height": 143 }
+		},
+		"slash6_00009": {
+			"slash6_00009": { "x": 541.78, "y": -171, "width": 137, "height": 131 }
+		},
+		"slash6_00010": {
+			"slash6_00010": { "x": 540.94, "y": -166.92, "width": 141, "height": 120 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

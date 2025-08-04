@@ -1,0 +1,649 @@
+
+flame4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2Me_VFX0003
+  rotate: false
+  xy: 1788, 37
+  size: 231, 397
+  orig: 231, 397
+  offset: 0, 0
+  index: -1
+2Me_VFX0004
+  rotate: true
+  xy: 2, 104
+  size: 218, 402
+  orig: 218, 402
+  offset: 0, 0
+  index: -1
+2Me_VFX0009
+  rotate: true
+  xy: 830, 494
+  size: 199, 373
+  orig: 199, 373
+  offset: 0, 0
+  index: -1
+2Me_VFX0010
+  rotate: true
+  xy: 1332, 223
+  size: 211, 454
+  orig: 211, 454
+  offset: 0, 0
+  index: -1
+2Me_VFX0016
+  rotate: true
+  xy: 852, 50
+  size: 219, 387
+  orig: 219, 387
+  offset: 0, 0
+  index: -1
+2Me_VFX0017
+  rotate: true
+  xy: 458, 501
+  size: 206, 370
+  orig: 206, 370
+  offset: 0, 0
+  index: -1
+2Me_VFX0018
+  rotate: true
+  xy: 1205, 468
+  size: 194, 424
+  orig: 194, 424
+  offset: 0, 0
+  index: -1
+2Me_VFX0019
+  rotate: true
+  xy: 411, 893
+  size: 178, 459
+  orig: 178, 459
+  offset: 0, 0
+  index: -1
+2Me_VFX0020
+  rotate: true
+  xy: 1248, 664
+  size: 184, 453
+  orig: 184, 453
+  offset: 0, 0
+  index: -1
+2Me_VFX0021
+  rotate: true
+  xy: 373, 709
+  size: 182, 456
+  orig: 182, 456
+  offset: 0, 0
+  index: -1
+2Me_VFX0022
+  rotate: true
+  xy: 2, 520
+  size: 187, 454
+  orig: 187, 454
+  offset: 0, 0
+  index: -1
+2Me_VFX0023
+  rotate: true
+  xy: 445, 297
+  size: 195, 456
+  orig: 195, 456
+  offset: 0, 0
+  index: -1
+2Me_VFX0024
+  rotate: true
+  xy: 1703, 644
+  size: 204, 307
+  orig: 204, 307
+  offset: 0, 0
+  index: -1
+2Me_VFX0025
+  rotate: true
+  xy: 1660, 850
+  size: 194, 336
+  orig: 194, 336
+  offset: 0, 0
+  index: -1
+2Me_VFX0026
+  rotate: true
+  xy: 1631, 436
+  size: 206, 388
+  orig: 206, 388
+  offset: 0, 0
+  index: -1
+2Me_VFX0027
+  rotate: true
+  xy: 831, 695
+  size: 182, 415
+  orig: 182, 415
+  offset: 0, 0
+  index: -1
+2Me_VFX0028
+  rotate: true
+  xy: 1582, 1046
+  size: 171, 370
+  orig: 171, 370
+  offset: 0, 0
+  index: -1
+2Me_VFX0029
+  rotate: true
+  xy: 903, 271
+  size: 195, 427
+  orig: 195, 427
+  offset: 0, 0
+  index: -1
+2Me_VFX0030
+  rotate: true
+  xy: 406, 79
+  size: 216, 444
+  orig: 216, 444
+  offset: 0, 0
+  index: -1
+2Me_VFX0031
+  rotate: true
+  xy: 2, 716
+  size: 195, 369
+  orig: 195, 369
+  offset: 0, 0
+  index: -1
+2Me_VFX0032
+  rotate: true
+  xy: 872, 879
+  size: 178, 404
+  orig: 178, 404
+  offset: 0, 0
+  index: -1
+2Me_VFX0033
+  rotate: true
+  xy: 1158, 1059
+  size: 169, 422
+  orig: 169, 422
+  offset: 0, 0
+  index: -1
+2Me_VFX0034
+  rotate: true
+  xy: 720, 1073
+  size: 166, 436
+  orig: 166, 436
+  offset: 0, 0
+  index: -1
+2Me_VFX0035
+  rotate: true
+  xy: 1278, 864
+  size: 180, 380
+  orig: 180, 380
+  offset: 0, 0
+  index: -1
+2Me_VFX0036
+  rotate: true
+  xy: 321, 1090
+  size: 165, 397
+  orig: 165, 397
+  offset: 0, 0
+  index: -1
+2Me_VFX0037
+  rotate: true
+  xy: 2, 913
+  size: 175, 407
+  orig: 175, 407
+  offset: 0, 0
+  index: -1
+2Me_VFX0038
+  rotate: true
+  xy: 2, 324
+  size: 194, 441
+  orig: 194, 441
+  offset: 0, 0
+  index: -1
+2Me_VFX0039
+  rotate: true
+  xy: 1241, 2
+  size: 219, 446
+  orig: 219, 446
+  offset: 0, 0
+  index: -1
+Me_VFX0000
+  rotate: true
+  xy: 1897, 1890
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+Me_VFX0044
+  rotate: true
+  xy: 1897, 1890
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+Me_VFX0001
+  rotate: true
+  xy: 1643, 1644
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+Me_VFX0002
+  rotate: true
+  xy: 620, 1395
+  size: 133, 184
+  orig: 133, 184
+  offset: 0, 0
+  index: -1
+Me_VFX0003
+  rotate: true
+  xy: 1574, 1377
+  size: 134, 195
+  orig: 134, 195
+  offset: 0, 0
+  index: -1
+Me_VFX0004
+  rotate: true
+  xy: 1771, 1367
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+Me_VFX0005
+  rotate: true
+  xy: 1032, 1241
+  size: 142, 263
+  orig: 142, 263
+  offset: 0, 0
+  index: -1
+Me_VFX0006
+  rotate: true
+  xy: 1615, 1219
+  size: 146, 297
+  orig: 146, 297
+  offset: 0, 0
+  index: -1
+Me_VFX0007
+  rotate: true
+  xy: 2, 1109
+  size: 154, 317
+  orig: 154, 317
+  offset: 0, 0
+  index: -1
+Me_VFX0008
+  rotate: true
+  xy: 1297, 1230
+  size: 145, 316
+  orig: 145, 316
+  offset: 0, 0
+  index: -1
+Me_VFX0009
+  rotate: true
+  xy: 1254, 1776
+  size: 118, 231
+  orig: 118, 231
+  offset: 0, 0
+  index: -1
+Me_VFX0010
+  rotate: true
+  xy: 1803, 1766
+  size: 122, 224
+  orig: 122, 224
+  offset: 0, 0
+  index: -1
+Me_VFX0011
+  rotate: true
+  xy: 1227, 1523
+  size: 127, 175
+  orig: 127, 175
+  offset: 0, 0
+  index: -1
+Me_VFX0012
+  rotate: true
+  xy: 1601, 1513
+  size: 129, 194
+  orig: 129, 194
+  offset: 0, 0
+  index: -1
+Me_VFX0013
+  rotate: true
+  xy: 1408, 1649
+  size: 123, 233
+  orig: 123, 233
+  offset: 0, 0
+  index: -1
+Me_VFX0014
+  rotate: true
+  xy: 2, 1532
+  size: 123, 277
+  orig: 123, 277
+  offset: 0, 0
+  index: -1
+Me_VFX0015
+  rotate: true
+  xy: 1487, 1774
+  size: 119, 314
+  orig: 119, 314
+  offset: 0, 0
+  index: -1
+Me_VFX0016
+  rotate: true
+  xy: 1225, 1385
+  size: 133, 347
+  orig: 133, 347
+  offset: 0, 0
+  index: -1
+Me_VFX0017
+  rotate: true
+  xy: 671, 1257
+  size: 135, 359
+  orig: 135, 359
+  offset: 0, 0
+  index: -1
+Me_VFX0018
+  rotate: true
+  xy: 632, 1778
+  size: 117, 232
+  orig: 117, 232
+  offset: 0, 0
+  index: -1
+Me_VFX0019
+  rotate: true
+  xy: 363, 1897
+  size: 109, 285
+  orig: 109, 285
+  offset: 0, 0
+  index: -1
+Me_VFX0020
+  rotate: true
+  xy: 650, 1897
+  size: 109, 323
+  orig: 109, 323
+  offset: 0, 0
+  index: -1
+Me_VFX0021
+  rotate: true
+  xy: 2, 1899
+  size: 107, 359
+  orig: 107, 359
+  offset: 0, 0
+  index: -1
+Me_VFX0022
+  rotate: true
+  xy: 975, 1897
+  size: 109, 395
+  orig: 109, 395
+  offset: 0, 0
+  index: -1
+Me_VFX0023
+  rotate: true
+  xy: 223, 1779
+  size: 116, 407
+  orig: 116, 407
+  offset: 0, 0
+  index: -1
+Me_VFX0024
+  rotate: true
+  xy: 2, 1657
+  size: 120, 415
+  orig: 120, 415
+  offset: 0, 0
+  index: -1
+Me_VFX0025
+  rotate: true
+  xy: 1404, 1520
+  size: 127, 195
+  orig: 127, 195
+  offset: 0, 0
+  index: -1
+Me_VFX0026
+  rotate: true
+  xy: 974, 1525
+  size: 125, 251
+  orig: 125, 251
+  offset: 0, 0
+  index: -1
+Me_VFX0027
+  rotate: true
+  xy: 325, 1399
+  size: 129, 293
+  orig: 129, 293
+  offset: 0, 0
+  index: -1
+Me_VFX0028
+  rotate: true
+  xy: 2, 1265
+  size: 135, 319
+  orig: 135, 319
+  offset: 0, 0
+  index: -1
+Me_VFX0029
+  rotate: true
+  xy: 323, 1260
+  size: 133, 346
+  orig: 133, 346
+  offset: 0, 0
+  index: -1
+Me_VFX0030
+  rotate: true
+  xy: 1039, 1652
+  size: 122, 367
+  orig: 122, 367
+  offset: 0, 0
+  index: -1
+Me_VFX0031
+  rotate: true
+  xy: 866, 1778
+  size: 117, 386
+  orig: 117, 386
+  offset: 0, 0
+  index: -1
+Me_VFX0032
+  rotate: true
+  xy: 570, 1530
+  size: 123, 402
+  orig: 123, 402
+  offset: 0, 0
+  index: -1
+Me_VFX0033
+  rotate: true
+  xy: 806, 1394
+  size: 129, 417
+  orig: 129, 417
+  offset: 0, 0
+  index: -1
+Me_VFX0034
+  rotate: true
+  xy: 674, 1655
+  size: 121, 363
+  orig: 121, 363
+  offset: 0, 0
+  index: -1
+Me_VFX0035
+  rotate: true
+  xy: 281, 1531
+  size: 123, 287
+  orig: 123, 287
+  offset: 0, 0
+  index: -1
+Me_VFX0036
+  rotate: true
+  xy: 2, 1402
+  size: 127, 321
+  orig: 127, 321
+  offset: 0, 0
+  index: -1
+Me_VFX0037
+  rotate: true
+  xy: 1797, 1509
+  size: 128, 218
+  orig: 128, 218
+  offset: 0, 0
+  index: -1
+Me_VFX0038
+  rotate: true
+  xy: 1801, 1639
+  size: 125, 226
+  orig: 125, 226
+  offset: 0, 0
+  index: -1
+Me_VFX0039
+  rotate: true
+  xy: 419, 1656
+  size: 120, 253
+  orig: 120, 253
+  offset: 0, 0
+  index: -1
+Me_VFX0040
+  rotate: true
+  xy: 2, 1781
+  size: 116, 219
+  orig: 116, 219
+  offset: 0, 0
+  index: -1
+Me_VFX0041
+  rotate: true
+  xy: 1372, 1896
+  size: 110, 159
+  orig: 110, 159
+  offset: 0, 0
+  index: -1
+Me_VFX0042
+  rotate: true
+  xy: 1720, 1895
+  size: 111, 175
+  orig: 111, 175
+  offset: 0, 0
+  index: -1
+Me_VFX0043
+  rotate: true
+  xy: 1533, 1896
+  size: 110, 185
+  orig: 110, 185
+  offset: 0, 0
+  index: -1
+
+flame42.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2Me_VFX0000
+  rotate: false
+  xy: 1446, 1014
+  size: 268, 422
+  orig: 268, 422
+  offset: 0, 0
+  index: -1
+2Me_VFX0001
+  rotate: false
+  xy: 429, 567
+  size: 281, 436
+  orig: 281, 436
+  offset: 0, 0
+  index: -1
+2Me_VFX0002
+  rotate: true
+  xy: 712, 749
+  size: 254, 450
+  orig: 254, 450
+  offset: 0, 0
+  index: -1
+2Me_VFX0005
+  rotate: true
+  xy: 712, 519
+  size: 228, 471
+  orig: 228, 471
+  offset: 0, 0
+  index: -1
+2Me_VFX0006
+  rotate: true
+  xy: 1164, 749
+  size: 254, 419
+  orig: 254, 419
+  offset: 0, 0
+  index: -1
+2Me_VFX0007
+  rotate: false
+  xy: 1720, 1440
+  size: 267, 450
+  orig: 267, 450
+  offset: 0, 0
+  index: -1
+2Me_VFX0008
+  rotate: true
+  xy: 1185, 514
+  size: 233, 448
+  orig: 233, 448
+  offset: 0, 0
+  index: -1
+2Me_VFX0011
+  rotate: false
+  xy: 272, 2
+  size: 224, 457
+  orig: 224, 457
+  offset: 0, 0
+  index: -1
+2Me_VFX0012
+  rotate: false
+  xy: 1716, 1004
+  size: 254, 432
+  orig: 254, 432
+  offset: 0, 0
+  index: -1
+2Me_VFX0013
+  rotate: true
+  xy: 980, 286
+  size: 226, 449
+  orig: 226, 449
+  offset: 0, 0
+  index: -1
+2Me_VFX0014
+  rotate: true
+  xy: 1635, 491
+  size: 261, 344
+  orig: 261, 344
+  offset: 0, 0
+  index: -1
+2Me_VFX0015
+  rotate: false
+  xy: 2, 461
+  size: 425, 542
+  orig: 425, 542
+  offset: 0, 0
+  index: -1
+2Me_VFX0040
+  rotate: false
+  xy: 498, 36
+  size: 233, 453
+  orig: 233, 453
+  offset: 0, 0
+  index: -1
+2Me_VFX0041
+  rotate: true
+  xy: 1585, 754
+  size: 248, 437
+  orig: 248, 437
+  offset: 0, 0
+  index: -1
+2Me_VFX0042
+  rotate: false
+  xy: 733, 70
+  size: 245, 447
+  orig: 245, 447
+  offset: 0, 0
+  index: -1
+2Me_VFX0043
+  rotate: false
+  xy: 1446, 1438
+  size: 272, 452
+  orig: 272, 452
+  offset: 0, 0
+  index: -1
+2Me_VFX0044
+  rotate: false
+  xy: 2, 8
+  size: 268, 451
+  orig: 268, 451
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 1005
+  size: 1442, 885
+  orig: 1442, 885
+  offset: 0, 0
+  index: -1

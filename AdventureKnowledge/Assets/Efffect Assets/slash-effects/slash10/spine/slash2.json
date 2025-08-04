@@ -1,0 +1,51 @@
+{
+"skeleton": {
+	"hash": "5KBr8Pk4wOmo5zRX+T/jr4g2JQk",
+	"spine": "3.8.75",
+	"x": 260.99,
+	"y": -292.79,
+	"width": 297,
+	"height": 259,
+	"images": "D:/исходники/VFX/s/slash2/image/",
+	"audio": "D:\\исходники\\VFX\\s\\slash2\\image"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "1", "bone": "root", "attachment": "3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "x": 451.73, "y": -164.67, "width": 106, "height": 80 },
+				"2": { "x": 386.88, "y": -188.91, "width": 168, "height": 208 },
+				"3": { "x": 409.49, "y": -163.29, "width": 297, "height": 259 },
+				"4": { "x": 416.24, "y": -157.11, "width": 346, "height": 258 },
+				"5": { "x": 416.31, "y": -163.61, "width": 393, "height": 271 },
+				"6": { "x": 401.52, "y": -150, "width": 433, "height": 302 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "1" },
+					{ "time": 0.0667, "name": "2" },
+					{ "time": 0.1, "name": "3" },
+					{ "time": 0.1333, "name": "4" },
+					{ "time": 0.1667, "name": "5" },
+					{ "time": 0.2, "name": "6" },
+					{ "time": 0.2333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

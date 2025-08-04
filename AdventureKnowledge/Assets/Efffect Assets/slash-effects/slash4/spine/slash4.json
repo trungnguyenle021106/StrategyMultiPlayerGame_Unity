@@ -1,0 +1,63 @@
+{
+"skeleton": {
+	"hash": "SCiYJA7UbwLK46Ogv1uUaz+RC6o",
+	"spine": "3.8.75",
+	"x": 352.58,
+	"y": -225.63,
+	"width": 126,
+	"height": 118,
+	"images": "D:/исходники/VFX/s/slash4/image/",
+	"audio": "D:\\исходники\\VFX\\s\\slash4\\image"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "slash4_00001", "bone": "root", "attachment": "slash4_00001" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"slash4_00001": {
+				"slash4_00001": { "x": 415.58, "y": -166.63, "width": 126, "height": 118 },
+				"slash4_00002": { "x": 394.19, "y": -179.63, "width": 167, "height": 144 },
+				"slash4_00003": { "x": 376.48, "y": -194.13, "width": 204, "height": 173 },
+				"slash4_00004": { "x": 369.49, "y": -204.63, "width": 217, "height": 194 },
+				"slash4_00005": { "x": 363.42, "y": -214.13, "width": 229, "height": 213 },
+				"slash4_00006": { "x": 359.4, "y": -220.63, "width": 238, "height": 226 },
+				"slash4_00007": { "x": 356.01, "y": -222.63, "width": 244, "height": 230 },
+				"slash4_00008": { "x": 354.46, "y": -225.63, "width": 248, "height": 236 },
+				"slash4_00009": { "x": 354.75, "y": -228.13, "width": 250, "height": 241 },
+				"slash4_00010": { "x": 354.75, "y": -228.13, "width": 250, "height": 241 },
+				"slash4_00011": { "x": 354.75, "y": -228.13, "width": 250, "height": 241 },
+				"slash4_00012": { "x": 354.93, "y": -232.67, "width": 239, "height": 216 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"slash4_00001": {
+				"attachment": [
+					{ "name": "slash4_00012" },
+					{ "time": 0.0333, "name": "slash4_00001" },
+					{ "time": 0.0667, "name": "slash4_00002" },
+					{ "time": 0.1, "name": "slash4_00003" },
+					{ "time": 0.1333, "name": "slash4_00004" },
+					{ "time": 0.1667, "name": "slash4_00005" },
+					{ "time": 0.2, "name": "slash4_00006" },
+					{ "time": 0.2333, "name": "slash4_00007" },
+					{ "time": 0.2667, "name": "slash4_00008" },
+					{ "time": 0.3, "name": "slash4_00009" },
+					{ "time": 0.3333, "name": "slash4_00010" },
+					{ "time": 0.3667, "name": "slash4_00011" },
+					{ "time": 0.4, "name": "slash4_00012" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

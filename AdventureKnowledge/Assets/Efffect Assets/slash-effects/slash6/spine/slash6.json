@@ -1,0 +1,59 @@
+{
+"skeleton": {
+	"hash": "eSNn0o3CKuCUMPiqidzejqUXjaM",
+	"spine": "3.8.75",
+	"x": 259.57,
+	"y": -262.94,
+	"width": 119,
+	"height": 41,
+	"images": "D:/исходники/VFX/s/slash6/image/",
+	"audio": "D:\\исходники\\VFX\\s\\slash6\\image"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "slash6_00001", "bone": "root", "attachment": "slash6_00001" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"slash6_00001": {
+				"slash6_00001": { "x": 319.07, "y": -242.44, "width": 119, "height": 41 },
+				"slash6_00002": { "x": 336.86, "y": -230.09, "width": 156, "height": 66 },
+				"slash6_00003": { "x": 363.36, "y": -214.35, "width": 209, "height": 97 },
+				"slash6_00004": { "x": 391.36, "y": -199.32, "width": 265, "height": 128 },
+				"slash6_00005": { "x": 477.11, "y": -187.6, "width": 188, "height": 150 },
+				"slash6_00006": { "x": 536.07, "y": -183.58, "width": 127, "height": 159 },
+				"slash6_00007": { "x": 538.28, "y": -181.29, "width": 130, "height": 153 },
+				"slash6_00008": { "x": 540.28, "y": -176.29, "width": 134, "height": 143 },
+				"slash6_00009": { "x": 541.78, "y": -171, "width": 137, "height": 131 },
+				"slash6_00010": { "x": 540.94, "y": -166.92, "width": 141, "height": 120 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"slash6_00001": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "slash6_00001" },
+					{ "time": 0.0667, "name": "slash6_00003" },
+					{ "time": 0.1, "name": "slash6_00004" },
+					{ "time": 0.1333, "name": "slash6_00005" },
+					{ "time": 0.1667, "name": "slash6_00006" },
+					{ "time": 0.2, "name": "slash6_00007" },
+					{ "time": 0.2333, "name": "slash6_00008" },
+					{ "time": 0.2667, "name": "slash6_00009" },
+					{ "time": 0.3, "name": "slash6_00010" },
+					{ "time": 0.3333, "name": "slash6_00010" },
+					{ "time": 0.3667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,193 @@
+{ "skeleton": { "images": "D:/исходники/VFX/fire3/image1/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Me_VFX0033", "bone": "root", "attachment": "Me_VFX0033" },
+	{ "name": "Me_VFX0032", "bone": "root", "attachment": "Me_VFX0032" },
+	{ "name": "Me_VFX0031", "bone": "root", "attachment": "Me_VFX0031" },
+	{ "name": "Me_VFX0028", "bone": "root", "attachment": "Me_VFX0028" },
+	{ "name": "Me_VFX0029", "bone": "root", "attachment": "Me_VFX0029" },
+	{ "name": "Me_VFX0030", "bone": "root", "attachment": "Me_VFX0030" },
+	{ "name": "Me_VFX0034", "bone": "root", "attachment": "Me_VFX0034" },
+	{ "name": "Me_VFX0035", "bone": "root", "attachment": "Me_VFX0035" },
+	{ "name": "Me_VFX0036", "bone": "root", "attachment": "Me_VFX0036" },
+	{ "name": "Me_VFX0037", "bone": "root", "attachment": "Me_VFX0037" },
+	{ "name": "Me_VFX0038", "bone": "root", "attachment": "Me_VFX0038" },
+	{ "name": "Me_VFX0039", "bone": "root", "attachment": "Me_VFX0039" },
+	{ "name": "Me_VFX0040", "bone": "root", "attachment": "Me_VFX0040" },
+	{ "name": "Me_VFX0041", "bone": "root", "attachment": "Me_VFX0041" },
+	{ "name": "Me_VFX0042", "bone": "root", "attachment": "Me_VFX0042" },
+	{ "name": "Me_VFX0043", "bone": "root", "attachment": "Me_VFX0043" },
+	{ "name": "Me_VFX0044", "bone": "root", "attachment": "Me_VFX0044" },
+	{ "name": "Me_VFX0000", "bone": "root", "attachment": "Me_VFX0000" },
+	{ "name": "Me_VFX0001", "bone": "root", "attachment": "Me_VFX0001" },
+	{ "name": "Me_VFX0002", "bone": "root", "attachment": "Me_VFX0002" },
+	{ "name": "Me_VFX0003", "bone": "root", "attachment": "Me_VFX0003" },
+	{ "name": "Me_VFX0004", "bone": "root", "attachment": "Me_VFX0004" },
+	{ "name": "Me_VFX0005", "bone": "root", "attachment": "Me_VFX0005" },
+	{ "name": "Me_VFX0006", "bone": "root", "attachment": "Me_VFX0006" },
+	{ "name": "Me_VFX0007", "bone": "root", "attachment": "Me_VFX0007" },
+	{ "name": "Me_VFX0008", "bone": "root", "attachment": "Me_VFX0008" },
+	{ "name": "Me_VFX0009", "bone": "root", "attachment": "Me_VFX0009" },
+	{ "name": "Me_VFX0010", "bone": "root", "attachment": "Me_VFX0010" },
+	{ "name": "Me_VFX0011", "bone": "root", "attachment": "Me_VFX0011" },
+	{ "name": "Me_VFX0012", "bone": "root", "attachment": "Me_VFX0012" },
+	{ "name": "Me_VFX0013", "bone": "root", "attachment": "Me_VFX0013" },
+	{ "name": "Me_VFX0014", "bone": "root", "attachment": "Me_VFX0014" },
+	{ "name": "Me_VFX0015", "bone": "root", "attachment": "Me_VFX0015" },
+	{ "name": "Me_VFX0016", "bone": "root", "attachment": "Me_VFX0016" },
+	{ "name": "Me_VFX0017", "bone": "root", "attachment": "Me_VFX0017" },
+	{ "name": "Me_VFX0018", "bone": "root", "attachment": "Me_VFX0018" },
+	{ "name": "Me_VFX0019", "bone": "root", "attachment": "Me_VFX0019" },
+	{ "name": "Me_VFX0020", "bone": "root", "attachment": "Me_VFX0020" },
+	{ "name": "Me_VFX0021", "bone": "root", "attachment": "Me_VFX0021" },
+	{ "name": "Me_VFX0022", "bone": "root", "attachment": "Me_VFX0022" },
+	{ "name": "Me_VFX0023", "bone": "root", "attachment": "Me_VFX0023" },
+	{ "name": "Me_VFX0024", "bone": "root", "attachment": "Me_VFX0024" },
+	{ "name": "Me_VFX0025", "bone": "root", "attachment": "Me_VFX0025" },
+	{ "name": "Me_VFX0026", "bone": "root", "attachment": "Me_VFX0026" },
+	{ "name": "Me_VFX0027", "bone": "root", "attachment": "Me_VFX0027" }
+],
+"skins": {
+	"default": {
+		"Me_VFX0033": {
+			"Me_VFX0033": { "x": 235.32, "y": -375.06, "width": 129, "height": 417 }
+		},
+		"Me_VFX0032": {
+			"Me_VFX0032": { "x": 230.19, "y": -378.92, "width": 123, "height": 402 }
+		},
+		"Me_VFX0031": {
+			"Me_VFX0031": { "x": 228.61, "y": -388.67, "width": 117, "height": 386 }
+		},
+		"Me_VFX0028": {
+			"Me_VFX0028": { "x": 225.54, "y": -370.79, "width": 135, "height": 319 }
+		},
+		"Me_VFX0029": {
+			"Me_VFX0029": { "x": 228.09, "y": -411.27, "width": 133, "height": 346 }
+		},
+		"Me_VFX0030": {
+			"Me_VFX0030": { "x": 227.56, "y": -397.63, "width": 122, "height": 367 }
+		},
+		"Me_VFX0034": {
+			"Me_VFX0034": { "x": 238.42, "y": -399.18, "width": 121, "height": 363 }
+		},
+		"Me_VFX0035": {
+			"Me_VFX0035": { "x": 241.55, "y": -437.15, "width": 123, "height": 287 }
+		},
+		"Me_VFX0036": {
+			"Me_VFX0036": { "x": 242.84, "y": -423.62, "width": 127, "height": 321 }
+		},
+		"Me_VFX0037": {
+			"Me_VFX0037": { "x": 243.34, "y": -475.78, "width": 128, "height": 218 }
+		},
+		"Me_VFX0038": {
+			"Me_VFX0038": { "x": 245.39, "y": -471.97, "width": 125, "height": 226 }
+		},
+		"Me_VFX0039": {
+			"Me_VFX0039": { "x": 240.76, "y": -459.91, "width": 120, "height": 253 }
+		},
+		"Me_VFX0040": {
+			"Me_VFX0040": { "x": 240.18, "y": -474.86, "width": 116, "height": 219 }
+		},
+		"Me_VFX0041": {
+			"Me_VFX0041": { "x": 241.44, "y": -506.63, "width": 110, "height": 159 }
+		},
+		"Me_VFX0042": {
+			"Me_VFX0042": { "x": 239.81, "y": -497.59, "width": 111, "height": 175 }
+		},
+		"Me_VFX0043": {
+			"Me_VFX0043": { "x": 237.89, "y": -489.81, "width": 110, "height": 185 }
+		},
+		"Me_VFX0044": {
+			"Me_VFX0044": { "x": 237.34, "y": -524.26, "width": 116, "height": 119 }
+		},
+		"Me_VFX0000": {
+			"Me_VFX0000": { "x": 237.34, "y": -524.26, "width": 116, "height": 119 }
+		},
+		"Me_VFX0001": {
+			"Me_VFX0001": { "x": 231.98, "y": -507.97, "width": 128, "height": 156 }
+		},
+		"Me_VFX0002": {
+			"Me_VFX0002": { "x": 238.03, "y": -492.15, "width": 133, "height": 184 }
+		},
+		"Me_VFX0003": {
+			"Me_VFX0003": { "x": 242.79, "y": -487.71, "width": 134, "height": 195 }
+		},
+		"Me_VFX0004": {
+			"Me_VFX0004": { "x": 247.21, "y": -476.07, "width": 140, "height": 220 }
+		},
+		"Me_VFX0005": {
+			"Me_VFX0005": { "x": 250.34, "y": -456.39, "width": 142, "height": 263 }
+		},
+		"Me_VFX0006": {
+			"Me_VFX0006": { "x": 258.02, "y": -439.31, "width": 146, "height": 297 }
+		},
+		"Me_VFX0007": {
+			"Me_VFX0007": { "x": 260.6, "y": -429.43, "width": 154, "height": 317 }
+		},
+		"Me_VFX0008": {
+			"Me_VFX0008": { "x": 258.23, "y": -427.51, "width": 145, "height": 316 }
+		},
+		"Me_VFX0009": {
+			"Me_VFX0009": { "x": 245.44, "y": -470.21, "width": 118, "height": 231 }
+		},
+		"Me_VFX0010": {
+			"Me_VFX0010": { "x": 243.18, "y": -473.81, "width": 122, "height": 224 }
+		},
+		"Me_VFX0011": {
+			"Me_VFX0011": { "x": 237.16, "y": -499.72, "width": 127, "height": 175 }
+		},
+		"Me_VFX0012": {
+			"Me_VFX0012": { "x": 243.84, "y": -488.63, "width": 129, "height": 194 }
+		},
+		"Me_VFX0013": {
+			"Me_VFX0013": { "x": 245.1, "y": -468.37, "width": 123, "height": 233 }
+		},
+		"Me_VFX0014": {
+			"Me_VFX0014": { "x": 244.39, "y": -448.48, "width": 123, "height": 277 }
+		},
+		"Me_VFX0015": {
+			"Me_VFX0015": { "x": 243.1, "y": -427.22, "width": 119, "height": 314 }
+		},
+		"Me_VFX0016": {
+			"Me_VFX0016": { "x": 244.42, "y": -412.48, "width": 133, "height": 347 }
+		},
+		"Me_VFX0017": {
+			"Me_VFX0017": { "x": 242.58, "y": -404.99, "width": 135, "height": 359 }
+		},
+		"Me_VFX0018": {
+			"Me_VFX0018": { "x": 234.29, "y": -470, "width": 117, "height": 232 }
+		},
+		"Me_VFX0019": {
+			"Me_VFX0019": { "x": 237.39, "y": -442.54, "width": 109, "height": 285 }
+		},
+		"Me_VFX0020": {
+			"Me_VFX0020": { "x": 238.81, "y": -423.91, "width": 109, "height": 323 }
+		},
+		"Me_VFX0021": {
+			"Me_VFX0021": { "x": 236.39, "y": -407.12, "width": 107, "height": 359 }
+		},
+		"Me_VFX0022": {
+			"Me_VFX0022": { "x": 235.97, "y": -388.2, "width": 109, "height": 395 }
+		},
+		"Me_VFX0023": {
+			"Me_VFX0023": { "x": 232.37, "y": -383.55, "width": 116, "height": 407 }
+		},
+		"Me_VFX0024": {
+			"Me_VFX0024": { "x": 231.53, "y": -380.45, "width": 120, "height": 415 }
+		},
+		"Me_VFX0025": {
+			"Me_VFX0025": { "x": 228.64, "y": -486.29, "width": 127, "height": 195 }
+		},
+		"Me_VFX0026": {
+			"Me_VFX0026": { "x": 228.35, "y": -457.49, "width": 125, "height": 251 }
+		},
+		"Me_VFX0027": {
+			"Me_VFX0027": { "x": 226.09, "y": -435.18, "width": 129, "height": 293 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

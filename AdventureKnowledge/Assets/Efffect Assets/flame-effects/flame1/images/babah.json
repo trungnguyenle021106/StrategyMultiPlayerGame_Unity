@@ -1,0 +1,117 @@
+{ "skeleton": { "images": "D:/исходники/VFX/BABAH/sek/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Sek_00017", "bone": "root", "attachment": "Sek_00017" },
+	{ "name": "Sek_00018", "bone": "root", "attachment": "Sek_00018" },
+	{ "name": "Sek_00019", "bone": "root", "attachment": "Sek_00019" },
+	{ "name": "Sek_00020", "bone": "root", "attachment": "Sek_00020" },
+	{ "name": "Sek_00021", "bone": "root", "attachment": "Sek_00021" },
+	{ "name": "Sek_00022", "bone": "root", "attachment": "Sek_00022" },
+	{ "name": "Sek_00023", "bone": "root", "attachment": "Sek_00023" },
+	{ "name": "Sek_00024", "bone": "root", "attachment": "Sek_00024" },
+	{ "name": "Sek_00025", "bone": "root", "attachment": "Sek_00025" },
+	{ "name": "Sek_00026", "bone": "root", "attachment": "Sek_00026" },
+	{ "name": "Sek_00001", "bone": "root", "attachment": "Sek_00001" },
+	{ "name": "Sek_00002", "bone": "root", "attachment": "Sek_00002" },
+	{ "name": "Sek_00003", "bone": "root", "attachment": "Sek_00003" },
+	{ "name": "Sek_00004", "bone": "root", "attachment": "Sek_00004" },
+	{ "name": "Sek_00005", "bone": "root", "attachment": "Sek_00005" },
+	{ "name": "Sek_00006", "bone": "root", "attachment": "Sek_00006" },
+	{ "name": "Sek_00007", "bone": "root", "attachment": "Sek_00007" },
+	{ "name": "Sek_00008", "bone": "root", "attachment": "Sek_00008" },
+	{ "name": "Sek_00009", "bone": "root", "attachment": "Sek_00009" },
+	{ "name": "Sek_00010", "bone": "root", "attachment": "Sek_00010" },
+	{ "name": "Sek_00011", "bone": "root", "attachment": "Sek_00011" },
+	{ "name": "Sek_00012", "bone": "root", "attachment": "Sek_00012" },
+	{ "name": "Sek_00013", "bone": "root", "attachment": "Sek_00013" },
+	{ "name": "Sek_00014", "bone": "root", "attachment": "Sek_00014" },
+	{ "name": "Sek_00015", "bone": "root", "attachment": "Sek_00015" },
+	{ "name": "Sek_00016", "bone": "root", "attachment": "Sek_00016" },
+],
+"skins": {
+	"default": {
+		"Sek_00017": {
+			"Sek_00017": { "x": 642.41, "y": -535.58, "width": 547, "height": 295 }
+		},
+		"Sek_00018": {
+			"Sek_00018": { "x": 636.52, "y": -527.54, "width": 264, "height": 313 }
+		},
+		"Sek_00019": {
+			"Sek_00019": { "x": 638.46, "y": -518.79, "width": 248, "height": 331 }
+		},
+		"Sek_00020": {
+			"Sek_00020": { "x": 641.48, "y": -510.88, "width": 237, "height": 345 }
+		},
+		"Sek_00021": {
+			"Sek_00021": { "x": 643.27, "y": -504.23, "width": 242, "height": 353 }
+		},
+		"Sek_00022": {
+			"Sek_00022": { "x": 646.12, "y": -496.97, "width": 198, "height": 347 }
+		},
+		"Sek_00023": {
+			"Sek_00023": { "x": 652.06, "y": -489.76, "width": 190, "height": 334 }
+		},
+		"Sek_00024": {
+			"Sek_00024": { "x": 648.05, "y": -367.05, "width": 84, "height": 90 }
+		},
+		"Sek_00025": {
+			"Sek_00025": { "x": 647.55, "y": -347.55, "width": 83, "height": 51 }
+		},
+		"Sek_00026": {
+			"Sek_00026": { "x": 645.63, "y": -337.55, "width": 82, "height": 31 }
+		},
+		"Sek_00001": {
+			"Sek_00001": { "x": 632.04, "y": -652.45, "width": 25, "height": 36 }
+		},
+		"Sek_00002": {
+			"Sek_00002": { "x": 632.41, "y": -648.93, "width": 30, "height": 46 }
+		},
+		"Sek_00003": {
+			"Sek_00003": { "x": 634.15, "y": -639.55, "width": 42, "height": 67 }
+		},
+		"Sek_00004": {
+			"Sek_00004": { "x": 635.68, "y": -629.25, "width": 55, "height": 89 }
+		},
+		"Sek_00005": {
+			"Sek_00005": { "x": 637.79, "y": -622.84, "width": 72, "height": 106 }
+		},
+		"Sek_00006": {
+			"Sek_00006": { "x": 639.82, "y": -622.5, "width": 86, "height": 111 }
+		},
+		"Sek_00007": {
+			"Sek_00007": { "x": 641.3, "y": -622.79, "width": 106, "height": 113 }
+		},
+		"Sek_00008": {
+			"Sek_00008": { "x": 643.07, "y": -604.45, "width": 128, "height": 153 }
+		},
+		"Sek_00009": {
+			"Sek_00009": { "x": 637.56, "y": -596.2, "width": 161, "height": 172 }
+		},
+		"Sek_00010": {
+			"Sek_00010": { "x": 639.92, "y": -592.76, "width": 214, "height": 185 }
+		},
+		"Sek_00011": {
+			"Sek_00011": { "x": 641.62, "y": -588.61, "width": 260, "height": 198 }
+		},
+		"Sek_00012": {
+			"Sek_00012": { "x": 645.08, "y": -578.99, "width": 301, "height": 210 }
+		},
+		"Sek_00013": {
+			"Sek_00013": { "x": 648.88, "y": -569.95, "width": 337, "height": 226 }
+		},
+		"Sek_00014": {
+			"Sek_00014": { "x": 650.99, "y": -561.2, "width": 354, "height": 244 }
+		},
+		"Sek_00015": {
+			"Sek_00015": { "x": 643.8, "y": -552.66, "width": 395, "height": 261 }
+		},
+		"Sek_00016": {
+			"Sek_00016": { "x": 643.2, "y": -543.91, "width": 479, "height": 279 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

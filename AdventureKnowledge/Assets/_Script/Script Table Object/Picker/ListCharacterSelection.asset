@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c5912158c9a2c247af828ef6fcd1869, type: 3}
+  m_Name: ListCharacterSelection
+  m_EditorClassIdentifier: 
+  listCharacterData:
+  - {fileID: 11400000, guid: 73829d78b9f65b14ca8c5addaa296872, type: 2}
+  - {fileID: 11400000, guid: 585bf11e86405254d8e33ec76dd0a1b9, type: 2}
+  - {fileID: 11400000, guid: 1151423f7bb69aa419839182e36cfde6, type: 2}

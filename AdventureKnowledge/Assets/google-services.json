@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "102914051563",
+    "firebase_url": "https://adventureknowledge-e3da8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adventureknowledge-e3da8",
+    "storage_bucket": "adventureknowledge-e3da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102914051563:android:9fa767fcd7a3e2309e5dae",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AdventureKnowledge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgoMGMyx1lEENzDmE4tyILo2c4HmJFJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

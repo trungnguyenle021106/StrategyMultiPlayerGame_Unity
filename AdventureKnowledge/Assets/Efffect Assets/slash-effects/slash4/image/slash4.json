@@ -1,0 +1,61 @@
+{ "skeleton": { "images": "D:/исходники/VFX/s/slash4/image/" },
+"PhotoshopToSpine": { "scale": 0.71, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "slash4_00012", "bone": "root", "attachment": "slash4_00012" },
+	{ "name": "slash4_00001", "bone": "root", "attachment": "slash4_00001" },
+	{ "name": "slash4_00002", "bone": "root", "attachment": "slash4_00002" },
+	{ "name": "slash4_00003", "bone": "root", "attachment": "slash4_00003" },
+	{ "name": "slash4_00004", "bone": "root", "attachment": "slash4_00004" },
+	{ "name": "slash4_00005", "bone": "root", "attachment": "slash4_00005" },
+	{ "name": "slash4_00006", "bone": "root", "attachment": "slash4_00006" },
+	{ "name": "slash4_00007", "bone": "root", "attachment": "slash4_00007" },
+	{ "name": "slash4_00008", "bone": "root", "attachment": "slash4_00008" },
+	{ "name": "slash4_00009", "bone": "root", "attachment": "slash4_00009" },
+	{ "name": "slash4_00010", "bone": "root", "attachment": "slash4_00010" },
+	{ "name": "slash4_00011", "bone": "root", "attachment": "slash4_00011" }
+],
+"skins": {
+	"default": {
+		"slash4_00012": {
+			"slash4_00012": { "x": 354.93, "y": -232.67, "width": 239, "height": 216 }
+		},
+		"slash4_00001": {
+			"slash4_00001": { "x": 415.58, "y": -166.63, "width": 126, "height": 118 }
+		},
+		"slash4_00002": {
+			"slash4_00002": { "x": 394.19, "y": -179.63, "width": 167, "height": 144 }
+		},
+		"slash4_00003": {
+			"slash4_00003": { "x": 376.48, "y": -194.13, "width": 204, "height": 173 }
+		},
+		"slash4_00004": {
+			"slash4_00004": { "x": 369.49, "y": -204.63, "width": 217, "height": 194 }
+		},
+		"slash4_00005": {
+			"slash4_00005": { "x": 363.42, "y": -214.13, "width": 229, "height": 213 }
+		},
+		"slash4_00006": {
+			"slash4_00006": { "x": 359.4, "y": -220.63, "width": 238, "height": 226 }
+		},
+		"slash4_00007": {
+			"slash4_00007": { "x": 356.01, "y": -222.63, "width": 244, "height": 230 }
+		},
+		"slash4_00008": {
+			"slash4_00008": { "x": 354.46, "y": -225.63, "width": 248, "height": 236 }
+		},
+		"slash4_00009": {
+			"slash4_00009": { "x": 354.75, "y": -228.13, "width": 250, "height": 241 }
+		},
+		"slash4_00010": {
+			"slash4_00010": { "x": 354.75, "y": -228.13, "width": 250, "height": 241 }
+		},
+		"slash4_00011": {
+			"slash4_00011": { "x": 354.75, "y": -228.13, "width": 250, "height": 241 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
