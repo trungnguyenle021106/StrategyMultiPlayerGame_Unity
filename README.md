@@ -1,6 +1,8 @@
 # Features : 
 + Shop Characters
 + Friend (Google Play Game)
++ Chat
++ Invite
 + Matchmaking
 + Room
 + Rank
@@ -18,6 +20,8 @@
 <img width="969" height="473" alt="image" src="https://github.com/user-attachments/assets/f122a4d3-51ae-4277-88ed-08f407a53cef" />
 <img width="947" height="460" alt="image" src="https://github.com/user-attachments/assets/6d2368f4-8d0c-49bd-b7dd-a61c71e211f9" />
 <img width="871" height="395" alt="image" src="https://github.com/user-attachments/assets/333d7f4a-4048-4f90-aa65-f045849c4379" />
+<img width="1920" height="473" alt="image" src="https://github.com/user-attachments/assets/73fd1190-ce9b-49cf-9543-7349a8db3731" />
+<img width="949" height="434" alt="image" src="https://github.com/user-attachments/assets/7f349d08-ed59-4cde-8bd1-b7a1d5ce8aea" />
 
 # Setting to run :
 ## Use Git LFS
